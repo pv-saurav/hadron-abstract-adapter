@@ -1,9 +1,9 @@
 {
-  "name": "hadron-abstract-adapter",
+  "name": "@hadron-abstract-adapter",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",        
-  "types": "lib/index.d.ts", 
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "pnpm build"
